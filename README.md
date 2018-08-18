@@ -1,4 +1,4 @@
-News Scraper 
+<strong>News Scraper</strong> 
 
 Scraper of "Hacker News". 
 
