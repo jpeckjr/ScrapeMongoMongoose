@@ -6,7 +6,7 @@ Deployed to Heroku:
 
 https://agile-hamlet-41063.herokuapp.com/
 
-Assignment Instructions:
+<strong>Assignment Instructions:</strong>
 
 Overview
 
